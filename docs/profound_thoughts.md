@@ -62,3 +62,8 @@ Time in the world is limited. Time in thought is not.
 
 > **"This is not just an agent—it’s a virtual being."**
 We are not building tools. We are nurturing cognition.
+
+---
+
+> **"Embeddings are the mental language of the virtual being."**
+The encoder is the way for the model to have a way to "think".
